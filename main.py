@@ -1,4 +1,4 @@
-    #conle financeiro
+    #controle financeiro
 while True:
     print ("\n---Bem vindo ao sistema de controle financeiro")
     nome = input("Digite seu nome: ")
